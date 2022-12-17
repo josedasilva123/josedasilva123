@@ -1,4 +1,10 @@
-Oi! Sou Alex, desenvolvedor fullstack Javascript com foco em front-end
+Oi! Sou Alex, desenvolvedor fullstack Javascript com foco em front-end: React, Vue / Express (NodeJS)
+
+🔭 Atualmente atuo como instrutor de React na Kenzie Academy Brasil e também trabalho como freelancer
+
+🌱 Estou sempre me dedicando em evoluir como desenvolvedor, foco sempre nas novidades do front-end, mas em parelo, estudo o necessário sobre back-end
+
+⚡ Sou um mago supremo do CSS dizem as pessoas
   
 <!--
 **josedasilva123/josedasilva123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
