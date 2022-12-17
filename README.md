@@ -1,10 +1,12 @@
-Oi! Sou Alex, desenvolvedor fullstack Javascript com foco em front-end: React, Vue / Express (NodeJS)
+Hi! I'm Alex, fullstack Javascript developer focused in front-end. My core stack is React + NodeJS
 
-🔭 Atualmente atuo como instrutor de React na Kenzie Academy Brasil e também trabalho como freelancer
+🔭 I've been working as React teacher in Kenzie Academy Brasil and I'm also a freelancer
 
-🌱 Estou sempre me dedicando em evoluir como desenvolvedor, foco sempre nas novidades do front-end, mas em parelo, estudo o necessário sobre back-end
+🌱 I'm always improving my skills as a developer, always focusing in front-end, but studing a little bit of back-end too.
 
-⚡ Sou um mago supremo do CSS dizem as pessoas
+😄 Pronouns: He/Him
+
+⚡ Fun fact: According to the my students and collegues in some kind of CSS Supreme Mage
   
 <!--
 **josedasilva123/josedasilva123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
