@@ -6,7 +6,7 @@ Hi! I'm Alex, fullstack Javascript developer focused in front-end. My core stack
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: According to the my students and collegues in some kind of CSS Supreme Mage
+⚡ Fun fact: According to the my students and collegues I'm some kind of CSS Supreme Mage
 
 Why josedasilva123? It's just a joke about someday the whole world use an application created by a funny name like that 
   
