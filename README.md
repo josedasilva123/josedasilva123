@@ -1,6 +1,6 @@
 Hi! I'm Alex, fullstack Javascript developer focused in front-end. My core stack is React + NodeJS
 
-🔭 I've been working as React teacher in Kenzie Academy Brasil and I'm also a freelancer
+🔭 I've been working as fullstack teacher in Kenzie Academy Brasil and I'm also a freelancer
 
 🌱 I'm always improving my skills as a developer, always focusing in front-end, but studing a little bit of back-end too.
 
